@@ -12,7 +12,7 @@
 <!--        <appender-ref ref="RollingFile"/>-->
 <!--    </root>-->
 
-<!--    <logger name="com.digivisions.employeeService" level="DEBUG" additivity="false">-->
+<!--    <logger name="com.demo.employeeService" level="DEBUG" additivity="false">-->
 <!--        <appender-ref ref="RollingFile"/>-->
 <!--    </logger>-->
 
@@ -40,7 +40,7 @@
         </filter>
     </appender>
 
-    <logger name="com.digivisions.employeeservice" level="DEBUG" additivity="false">
+    <logger name="com.demo.employeeservice" level="DEBUG" additivity="false">
         <appender-ref ref="DebugFile"/>
         <appender-ref ref="InfoFile"/>
     </logger>

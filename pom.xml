@@ -8,10 +8,10 @@
 		<version>3.4.1</version>
 		<relativePath/>
 	</parent>
-	<groupId>com.digivisions</groupId>
+	<groupId>com.demo</groupId>
 	<artifactId>employeeservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>employeeservice</name>
+	<name>employee-service</name>
 	<description>Employee Service</description>
 	<url/>
 	<licenses>
